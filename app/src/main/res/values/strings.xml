@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AccessibilityServiceLearn</string>
+    <string name="accessibility_service_description">检测相关的窗口等等</string>
+</resources>
